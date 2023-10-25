@@ -1,0 +1,21 @@
+{
+  "name": "evergreen",
+  "displayName": "evergreen",
+  "description": "a timeless theme designed for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "evergreen theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/evergreen theme-color-theme.json"
+      }
+    ]
+  }
+}
