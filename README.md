@@ -32,5 +32,3 @@ This theme is available under the [MIT License](LICENSE.md).
 Enjoy coding with the "Evergreen" theme! 🌿
 
 ---
-
-**Note:** Replace "yourusername" with your actual GitHub username if you plan to host the theme's repository on GitHub. Additionally, remember to include a screenshot image file (like `screenshot.png`) to showcase your theme in the README.
