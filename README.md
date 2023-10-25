@@ -9,6 +9,7 @@ The "Evergreen" theme is a beautiful and timeless theme designed for Visual Stud
 ## Features
 
 - **Timeless Design:** The "Evergreen" theme is crafted to stand the test of time with its enduring design.
+- **Accessibility Design:** "Evergreen" theme has been created with accessibility design principles based on standards to ensure it's usable by as many people as possible.
 - **Nature-Inspired Colors:** Enjoy the calming and refreshing colors reminiscent of nature.
 - **Excellent Readability:** Every effort has been made to ensure the theme is easy on the eyes and offers great code readability.
 - **Syntax Highlighting:** Precisely designed syntax highlighting for various programming languages.
