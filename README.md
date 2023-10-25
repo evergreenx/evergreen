@@ -1,6 +1,6 @@
 # Evergreen Theme for Visual Studio Code
 
-![Evergreen Theme](screenshot.png)
+
 
 ## Overview
 
@@ -23,11 +23,7 @@ The "Evergreen" theme is a beautiful and timeless theme designed for Visual Stud
 
 ## Feedback and Contributions
 
-If you find any issues or have suggestions for improvements, please don't hesitate to [open an issue](https://github.com/yourusername/evergreen-theme/issues). Pull requests are also welcome.
-
-## License
-
-This theme is available under the [MIT License](LICENSE.md).
+If you find any issues or have suggestions for improvements, please don't hesitate to [open an issue](https://github.com/evergreenx/evergreen/issues). Pull requests are also welcome.
 
 Enjoy coding with the "Evergreen" theme! 🌿
 
